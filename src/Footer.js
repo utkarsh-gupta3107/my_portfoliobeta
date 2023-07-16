@@ -81,13 +81,13 @@ const Footer = () => {
                   </div>
                   <ul>
                     <li><a href="/">Home</a></li>
-                                <li><a href="/">Cover Letter</a></li>
-                                <li><a href="/">Resume</a></li>
-                                <li><a href="/">Skills</a></li>
-                                <li><a href="/">Recognition</a></li>
-                                <li><a href="/">Academics</a></li>
-                                <li><a href="/">Web Dev</a></li>
-                                <li><a href="/">Guesstimates</a></li>
+                                // <li><a href="/">Cover Letter</a></li>
+                                // <li><a href="/">Resume</a></li>
+                                // <li><a href="/">Skills</a></li>
+                                // <li><a href="/">Recognition</a></li>
+                                // <li><a href="/">Academics</a></li>
+                                // <li><a href="/">Web Dev</a></li>
+                                // <li><a href="/">Guesstimates</a></li>
                                
                   </ul>
                 </div>
